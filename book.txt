@@ -8,4 +8,4 @@ Scooter - Next booking is not possible / Why
 
 	Done
 ----------------------
-Car, Ferry, Ship, SUP,
+Car, Ferry, Ship, SUP, Rope
