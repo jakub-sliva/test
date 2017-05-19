@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
         <title>Sports</title>
-        <script type='text/javascript' src='../../library/angular/angular.js'></script>
+        <script type='text/javascript' src='../lib/angular/angular.js'></script>
         <script type='text/javascript' src='angular.js'></script>
 
         <link rel="stylesheet" href="../../style.css" type="text/css">

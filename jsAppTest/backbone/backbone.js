@@ -1,4 +1,5 @@
 // Models
+console.log('KUK');
 window.SportModel = Backbone.Model.extend();
  
 window.SportsCollection = Backbone.Collection.extend({
